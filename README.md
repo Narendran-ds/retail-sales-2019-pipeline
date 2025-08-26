@@ -81,9 +81,12 @@ It’s a great starter for anyone learning ETL, EDA, and Visualization in Python
 
 Narendran L
 
-📧 narendranlofficial@gmail.com
 
-🔗 LinkedIn
-🔗 GitHub
+🌐 Portfolio/Projects: https://github.com/Narendran-ds
+
+💼 LinkedIn: www.linkedin.com/in/narendran-l1125
+
+📧 Email: narendranlofficial@gmail.com
+
 
 ✨ Feel free to fork, star ⭐, or open issues for improvements!
