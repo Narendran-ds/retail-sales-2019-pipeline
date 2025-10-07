@@ -12,7 +12,6 @@ retail-sales-2019-pipeline/
 │  ├─ o1_preprocessing.py      # Data cleaning + feature engineering
 │  └─ o2_analysis_and_viz.py   # Analysis + visualizations
 ├─ 03_visualizations_final/    # Auto-generated PNG charts
-
 ⚡ Features
 
 ✅ Data Cleaning (remove nulls, fix types, drop duplicate headers)
